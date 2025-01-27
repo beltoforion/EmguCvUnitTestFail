@@ -55,6 +55,8 @@ namespace Sentio.Test.VisionEmguCv
             CvInvoke.CvtColor(cvImg, grayImage, ColorConversion.Bgr2Gray);
 
             Assert.Pass("Test passed!");
+
+            await Task.CompletedTask;
         }
     }
 }
