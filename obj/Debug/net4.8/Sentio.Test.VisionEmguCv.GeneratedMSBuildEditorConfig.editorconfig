@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = Sentio.Test.VisionEmguCv
+build_property.ProjectDir = C:\Users\Public\projects\Sentio (main repo)\Sentio\TestProject2\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
